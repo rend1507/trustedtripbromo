@@ -73,6 +73,9 @@ define( 'NONCE_SALT',       'T5XV|&xQ$F@N BY<b~QS7-0#:]F]fKY%_hHjP]kxo>9iH~/FGZ}
  */
 $table_prefix = 'wp_adm_';
 
+define( 'WP_MEMORY_LIMIT', '256M' );
+set_time_limit(0);
+
 /**
  * For developers: WordPress debugging mode.
  *
