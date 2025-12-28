@@ -18,22 +18,22 @@
 # /xmlrpc.php
 
 # Configuration
-wp-config.php
+# wp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
+# /wp-content/themes/twenty*/
 
 # Example plugin
-/wp-content/plugins/hello.php
+# /wp-content/plugins/hello.php
 
 # Uploads
-/wp-content/uploads/
+# /wp-content/uploads/
 
 # Log files
 *.log
 
 # htaccess
-/.htaccess
+# /.htaccess
 
 # All plugins
 #
