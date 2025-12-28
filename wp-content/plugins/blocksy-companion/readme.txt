@@ -2,10 +2,10 @@
 Tags: widget, widgets
 Requires at least: 6.5
 Requires PHP: 7.0
-Tested up to: 6.8
+Tested up to: 6.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 2.1.21
+Stable tag: 2.1.23
 
 The official companion plugin for Blocksy theme, packed with starter sites, extra features, and integrations.
 
@@ -67,6 +67,19 @@ Program. The Patchstack team help validate, triage and handle any security
 vulnerabilities. [Report a security vulnerability.](https://patchstack.com/database/vdp/blocksy-companion)
 
 == Changelog ==
+2.1.23: 2025-12-11
+- Improvement: Account modal - integration with "Sign in with Google" option from Google Site Kit plugin
+- Improvement: Account modal - integration with Defender plugin from WPMUDEV
+- Improvement: Advanced Posts block - dynamic data image (cover) outputs the correct CSS after WordPress 6.9 update
+- Improvement: Demo importer - add compatibility with Fluent Snippets plugin
+- Improvement: Demo importer - more resilient flow for installing demo content
+- Improvement: Ensure slider assets are loaded correct for Advanced Posts placed in Gutenberg patterns
+- Improvement: Newsletter Subscribe extension - improve logic for passing the name in Mailchimp integration
+- Improvement: Newsletter subscribe block - make sure the border radius option outputs a linked value all the time
+
+2.1.22: 2025-11-27
+- Improvement: Demo importer - smarter and more resilient strategy for importing the content on servers with low resources
+
 2.1.21: 2025-11-13
 - Improvement: General fixes and improvements
 

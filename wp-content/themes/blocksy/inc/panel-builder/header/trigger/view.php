@@ -6,12 +6,24 @@ if (! isset($device)) {
 
 $trigger_type = blocksy_default_akg('mobile_menu_trigger_type', $atts, 'type-1');
 $trigger_design = blocksy_default_akg('trigger_design', $atts, 'simple');
+
+$trigger_label_value = blocksy_expand_responsive_value(
+	blocksy_default_akg('trigger_label', $atts, __('Menu', 'blocksy'))
+);
+
 $trigger_label = blocksy_translate_dynamic(
-	blocksy_expand_responsive_value(
-		blocksy_default_akg('trigger_label', $atts, __('Menu', 'blocksy'))
-	)[$device],
+	$trigger_label_value[$device],
 	$panel_type . ':' . $section_id . ':' . $item_id . ':trigger_label'
 );
+
+$trigger_aria_label = $trigger_label;
+
+if ('' === trim($trigger_aria_label)) {
+	$trigger_aria_label = blocksy_translate_dynamic(
+		__('Menu', 'blocksy'),
+		$panel_type . ':' . $section_id . ':' . $item_id . ':trigger_label'
+	);
+}
 
 $class = 'ct-header-trigger ct-toggle';
 
@@ -79,7 +91,7 @@ $svg = apply_filters(
 	aria-controls="offcanvas"
 	data-design="<?php echo $trigger_design ?>"
 	data-label="<?php echo $trigger_label_alignment[$device] ?>"
-	aria-label="<?php echo $trigger_label ?>"
+	aria-label="<?php echo $trigger_aria_label ?>"
 	<?php echo blocksy_attr_to_html($attr) ?>>
 
 	<span class="<?php echo $label_class ?>" aria-hidden="true"><?php echo $trigger_label ?></span>

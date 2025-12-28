@@ -60,23 +60,20 @@ class KlaviyoProvider extends Provider {
 
 		$settings = $this->get_settings();
 
-		$lname = '';
-		$fname = '';
-
-		if (! empty($args['name'])) {
-			$parts = explode(' ', $args['name']);
-
-			$lname = array_pop($parts);
-			$fname = implode(' ', $parts);
-		}
+		$name_parts = $this->maybe_split_name($args['name']);
+		$fname = $name_parts['first_name'];
+		$lname = $name_parts['last_name'];
 
 		$list_ids = [$args['group']];
 
 		$subscriber = [
 			'email' => $args['email'],
-			'first_name' => $fname,
-			'last_name' => $lname
+			'first_name' => $fname
 		];
+
+		if (! empty($lname)) {
+			$subscriber['last_name'] = $lname;
+		}
 
 		// phpcs:ignore WordPress.WP.AlternativeFunctions.curl_curl_init
 		$curl = curl_init();
@@ -94,11 +91,7 @@ class KlaviyoProvider extends Provider {
 			CURLOPT_POSTFIELDS => json_encode([
 				'data' => [
 					'type' => 'profile',
-					'attributes' => [
-						'email' => $subscriber['email'],
-						'first_name' => $subscriber['first_name'],
-						'last_name' => $subscriber['last_name'],
-					]
+					'attributes' => $subscriber,
 				]
 			]),
 			CURLOPT_HTTPHEADER => array(

@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-11-13 14:43+0000\n"
+"POT-Creation-Date: 2025-12-11 16:54+0000\n"
 "Project-Id-Version: undefined\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
@@ -290,9 +290,9 @@ msgid ""
 "in doing so."
 msgstr ""
 
-#: framework/features/demo-install.php:158,
-#: framework/features/demo-install/content-installer.php:168,
-#: framework/features/demo-install/content-installer.php:163,
+#: framework/features/demo-install.php:159,
+#: framework/features/demo-install/content-installer.php:179,
+#: framework/features/demo-install/content-installer.php:175,
 #: framework/features/demo-install/demo-register.php:12
 msgid "No demo name provided."
 msgstr ""
@@ -875,7 +875,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:5
 #: framework/premium/extensions/custom-fonts/dashboard-static/js/Uploader.js:363
 #: framework/premium/extensions/local-google-fonts/dashboard-static/js/SingleFont.js:111
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:103
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:134
 #: static/js/editor/blocks/query/edit/PostsInspectorControls.js:43
 #: static/js/editor/blocks/tax-query/edit/TermsInspectorControls.js:45
 msgid "General"
@@ -1057,7 +1057,7 @@ msgstr ""
 
 #: framework/extensions/cookies-consent/customizer.php:148,
 #: framework/extensions/newsletter-subscribe/customizer.php:196,
-#: framework/premium/extensions/mega-menu/options.php:665,
+#: framework/premium/extensions/mega-menu/options.php:675,
 #: framework/premium/extensions/woocommerce-extra/features/cart-reserved-timer/options.php:70,
 #: framework/premium/extensions/woocommerce-extra/features/cart-reserved-timer/options.php:122,
 #: framework/premium/extensions/woocommerce-extra/features/swatches/options.php:317
@@ -1086,9 +1086,9 @@ msgstr ""
 #: framework/extensions/trending/customizer.php:822,
 #: framework/extensions/trending/customizer.php:872,
 #: framework/extensions/trending/customizer.php:914,
-#: framework/premium/extensions/mega-menu/options.php:845,
-#: framework/premium/extensions/mega-menu/options.php:892,
-#: framework/premium/extensions/mega-menu/options.php:911,
+#: framework/premium/extensions/mega-menu/options.php:855,
+#: framework/premium/extensions/mega-menu/options.php:902,
+#: framework/premium/extensions/mega-menu/options.php:921,
 #: framework/premium/extensions/shortcuts/customizer.php:1080,
 #: framework/premium/extensions/shortcuts/customizer.php:1114,
 #: framework/premium/extensions/shortcuts/customizer.php:1146,
@@ -1200,7 +1200,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:372,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:403,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:432
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:273
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:274
 #: static/js/editor/blocks/about-me/Edit.js:196
 #: static/js/editor/blocks/contact-info/Edit.js:203
 #: static/js/editor/blocks/search/Edit.js:409
@@ -1221,7 +1221,7 @@ msgstr ""
 #: framework/extensions/trending/customizer.php:796,
 #: framework/extensions/trending/customizer.php:828,
 #: framework/extensions/trending/customizer.php:920,
-#: framework/premium/extensions/mega-menu/options.php:850,
+#: framework/premium/extensions/mega-menu/options.php:860,
 #: framework/premium/extensions/shortcuts/customizer.php:1086,
 #: framework/premium/extensions/shortcuts/customizer.php:1120,
 #: framework/premium/extensions/shortcuts/customizer.php:1152,
@@ -1291,7 +1291,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:378,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:408,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:437
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:282
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:283
 #: static/js/editor/blocks/about-me/Edit.js:205
 #: static/js/editor/blocks/contact-info/Edit.js:212
 #: static/js/editor/blocks/search/Edit.js:368
@@ -1303,7 +1303,7 @@ msgstr ""
 #: framework/extensions/cookies-consent/customizer.php:179,
 #: framework/extensions/cookies-consent/customizer.php:235,
 #: framework/extensions/cookies-consent/customizer.php:300,
-#: framework/premium/extensions/mega-menu/options.php:899,
+#: framework/premium/extensions/mega-menu/options.php:909,
 #: framework/features/header/items/account/options.php:1852,
 #: framework/features/header/items/account/options.php:1976,
 #: framework/premium/extensions/woocommerce-extra/features/cart-reserved-timer/options.php:90,
@@ -1323,7 +1323,7 @@ msgstr ""
 
 #: framework/extensions/cookies-consent/customizer.php:204,
 #: framework/extensions/cookies-consent/customizer.php:271,
-#: framework/premium/extensions/mega-menu/options.php:879,
+#: framework/premium/extensions/mega-menu/options.php:889,
 #: framework/premium/extensions/shortcuts/customizer.php:1062,
 #: framework/features/header/items/account/options.php:1541,
 #: framework/features/header/items/account/options.php:1925,
@@ -1405,6 +1405,7 @@ msgstr ""
 #: framework/premium/features/premium-header/items/contacts/options.php:313,
 #: framework/premium/features/premium-header/items/contacts/options.php:358,
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:285
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:42
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:42
 #: static/js/editor/blocks/query/edit/PostsInspectorControls.js:125
 msgid "Title"
@@ -1422,6 +1423,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:91,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:236,
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:369
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:63
 msgid "Description"
 msgstr ""
 
@@ -1526,7 +1528,7 @@ msgstr ""
 #: framework/extensions/newsletter-subscribe/helpers.php:37,
 #: framework/extensions/newsletter-subscribe/helpers.php:81,
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:122,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:150
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:179
 msgid "Your name"
 msgstr ""
 
@@ -1771,7 +1773,7 @@ msgstr ""
 #: framework/premium/features/premium-header/items/search-input/options.php:314,
 #: framework/premium/features/premium-header/items/search-input/options.php:346,
 #: framework/premium/features/premium-header/items/search-input/options.php:376
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:131
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:132
 #: static/js/editor/blocks/search/Edit.js:196
 msgid "Input Font Color"
 msgstr ""
@@ -1794,7 +1796,7 @@ msgstr ""
 #: framework/premium/features/premium-header/items/search-input/options.php:732,
 #: framework/premium/features/premium-header/items/search-input/options.php:762,
 #: framework/premium/features/premium-header/items/search-input/options.php:792
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:222
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:223
 #: static/js/editor/blocks/search/Edit.js:269
 msgid "Focus"
 msgstr ""
@@ -1805,7 +1807,7 @@ msgstr ""
 #: framework/premium/features/premium-header/items/search-input/options.php:574,
 #: framework/premium/features/premium-header/items/search-input/options.php:606,
 #: framework/premium/features/premium-header/items/search-input/options.php:636
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:164
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:165
 #: static/js/editor/blocks/search/Edit.js:223
 msgid "Input Border Color"
 msgstr ""
@@ -1816,7 +1818,7 @@ msgstr ""
 #: framework/premium/features/premium-header/items/search-input/options.php:709,
 #: framework/premium/features/premium-header/items/search-input/options.php:739,
 #: framework/premium/features/premium-header/items/search-input/options.php:769
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:201
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:202
 #: static/js/editor/blocks/search/Edit.js:250
 msgid "Input Background Color"
 msgstr ""
@@ -1867,8 +1869,8 @@ msgid "First name"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/helpers.php:180,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:268,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:269
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:297,
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:298
 msgid "Email address"
 msgstr ""
 
@@ -1894,7 +1896,7 @@ msgstr ""
 #: framework/extensions/product-reviews/extension.php:445,
 #: framework/extensions/product-reviews/extension.php:473,
 #: framework/extensions/product-reviews/extension.php:494,
-#: framework/premium/extensions/mega-menu/options.php:855,
+#: framework/premium/extensions/mega-menu/options.php:865,
 #: framework/features/header/items/account/options.php:2008,
 #: framework/premium/extensions/woocommerce-extra/features/shipping-progress/options.php:225,
 #: framework/premium/extensions/woocommerce-extra/features/shipping-progress/options.php:231,
@@ -2524,21 +2526,30 @@ msgstr ""
 msgid "Sorry, you don't have permission to install child themes."
 msgstr ""
 
-#: framework/features/demo-install/content-eraser.php:23
+#: framework/features/demo-install/content-eraser.php:36
 msgid "Sorry, you don't have permission to erase content."
 msgstr ""
 
-#: framework/features/demo-install/content-installer.php:73
+#: framework/features/demo-install/content-installer.php:35
+msgid "Invalid request. SSE Accept header required."
+msgstr ""
+
+#: framework/features/demo-install/content-installer.php:87
 msgid "Sorry, you don't have permission to install content."
 msgstr ""
 
-#: framework/features/demo-install/content-installer.php:199,
-#: framework/features/demo-install/content-installer.php:193
+#: framework/features/demo-install/content-installer.php:207,
+#: framework/features/demo-install/content-installer.php:203
 msgid "No demo data found."
 msgstr ""
 
-#: framework/features/demo-install/content-installer.php:355,
-#: framework/features/demo-install/content-installer.php:350
+#. translators: %1$s and %2$s are HTML tags for a link.
+#: framework/features/demo-install/content-installer.php:343
+msgid "Importing %1$s: %2$s"
+msgstr ""
+
+#: framework/features/demo-install/content-installer.php:482,
+#: framework/features/demo-install/content-installer.php:478
 msgid "No pages to assign."
 msgstr ""
 
@@ -2546,14 +2557,14 @@ msgstr ""
 msgid "Sorry, you don't have permission to finish the installation."
 msgstr ""
 
-#: framework/features/demo-install/options-import.php:36
+#: framework/features/demo-install/options-import.php:39
 msgid "Sorry, you don't have permission to install options."
 msgstr ""
 
-#: framework/features/demo-install/options-import.php:48,
-#: framework/features/demo-install/options-import.php:43,
-#: framework/features/demo-install/options-import.php:78,
-#: framework/features/demo-install/options-import.php:73,
+#: framework/features/demo-install/options-import.php:51,
+#: framework/features/demo-install/options-import.php:46,
+#: framework/features/demo-install/options-import.php:81,
+#: framework/features/demo-install/options-import.php:76,
 #: framework/features/demo-install/widgets-import.php:45,
 #: framework/features/demo-install/widgets-import.php:40
 msgid "No demo to install"
@@ -2601,51 +2612,52 @@ msgstr ""
 msgid "No widgets to install."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:199,
-#: framework/features/demo-install/wp-importer.php:254,
-#: framework/features/demo-install/wp-importer.php:250,
-#: framework/features/demo-install/wp-importer.php:271
+#: framework/features/demo-install/wp-importer.php:190,
+#: framework/features/demo-install/wp-importer.php:239,
+#: framework/features/demo-install/wp-importer.php:294,
+#: framework/features/demo-install/wp-importer.php:290,
+#: framework/features/demo-install/wp-importer.php:311
 msgid "Sorry, there has been an error."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:234
+#: framework/features/demo-install/wp-importer.php:274
 msgid "All done."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:234
+#: framework/features/demo-install/wp-importer.php:274
 msgid "Have fun!"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:235
+#: framework/features/demo-install/wp-importer.php:275
 msgid "Remember to update the passwords and roles of imported users."
 msgstr ""
 
 #. translators: %s is the path to the WXR file.
-#: framework/features/demo-install/wp-importer.php:258
+#: framework/features/demo-install/wp-importer.php:298
 msgid ""
 "The export file could not be found at <code>%s</code>. It is likely that "
 "this was caused by a permissions problem."
 msgstr ""
 
 #. translators: %s is the WXR version number.
-#: framework/features/demo-install/wp-importer.php:282
+#: framework/features/demo-install/wp-importer.php:322
 msgid ""
 "This WXR file (version %s) may not be supported by this version of the "
 "importer. Please consider updating."
 msgstr ""
 
 #. translators: %s is the author's display name.
-#: framework/features/demo-install/wp-importer.php:315
+#: framework/features/demo-install/wp-importer.php:355
 msgid ""
 "Failed to import author %s. Their posts will be attributed to the current "
 "user."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:349
+#: framework/features/demo-install/wp-importer.php:389
 msgid "Assign Authors"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:350
+#: framework/features/demo-install/wp-importer.php:390
 msgid ""
 "To make it simpler for you to edit and save the imported content, you may "
 "want to reassign the author of the imported item to an existing user of this "
@@ -2653,140 +2665,140 @@ msgid ""
 msgstr ""
 
 #. translators: %s is the default user role.
-#: framework/features/demo-install/wp-importer.php:355
+#: framework/features/demo-install/wp-importer.php:395
 msgid ""
 "If a new user is created by WordPress, a new password will be randomly "
 "generated and the new user&#8217;s role will be set as %s. Manually changing "
 "the new user&#8217;s details will be necessary."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:371
+#: framework/features/demo-install/wp-importer.php:411
 msgid "Import Attachments"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:374
+#: framework/features/demo-install/wp-importer.php:414
 msgid "Download and import file attachments"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:378
+#: framework/features/demo-install/wp-importer.php:418
 msgid "Submit"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:391
+#: framework/features/demo-install/wp-importer.php:431
 msgid "Import author:"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:405
+#: framework/features/demo-install/wp-importer.php:445
 msgid "as a new user:"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:402
+#: framework/features/demo-install/wp-importer.php:442
 msgid "or create new user with login name:"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:415
+#: framework/features/demo-install/wp-importer.php:455
 msgid "or assign posts to an existing user:"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:413
+#: framework/features/demo-install/wp-importer.php:453
 msgid "assign posts to an existing user:"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:421
+#: framework/features/demo-install/wp-importer.php:461
 msgid "- Select -"
 msgstr ""
 
 #. translators: %s is the author's display name.
-#: framework/features/demo-install/wp-importer.php:476
+#: framework/features/demo-install/wp-importer.php:516
 msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
 "current user."
 msgstr ""
 
 #. translators: %s is the category slug.
-#: framework/features/demo-install/wp-importer.php:540
+#: framework/features/demo-install/wp-importer.php:580
 msgid "Failed to import category %s"
 msgstr ""
 
 #. translators: %s is the tag name.
-#: framework/features/demo-install/wp-importer.php:593
+#: framework/features/demo-install/wp-importer.php:633
 msgid "Failed to import post tag %s"
 msgstr ""
 
 #. translators: %1$s is the term taxonomy, %2$s is the term name.
 #. translators: %1$s is the taxonomy name, %2$s is the term name.
-#: framework/features/demo-install/wp-importer.php:658,
-#: framework/features/demo-install/wp-importer.php:969
+#: framework/features/demo-install/wp-importer.php:698,
+#: framework/features/demo-install/wp-importer.php:1009
 msgid "Failed to import %1$s %2$s"
 msgstr ""
 
 #. translators: %1$s is the post type name, %2$s is the post title.
-#: framework/features/demo-install/wp-importer.php:924
+#: framework/features/demo-install/wp-importer.php:964
 msgid "Failed to import %1$s &#8220;%2$s&#8221;"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:833
+#: framework/features/demo-install/wp-importer.php:873
 msgid "%1$s &#8220;%1$s&#8221; already exists."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1117
+#: framework/features/demo-install/wp-importer.php:1157
 msgid "Menu item skipped due to missing menu slug"
 msgstr ""
 
 #. translators: %s is the menu slug.
-#: framework/features/demo-install/wp-importer.php:1131
+#: framework/features/demo-install/wp-importer.php:1171
 msgid "Menu item skipped due to invalid menu slug: %s"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1222
+#: framework/features/demo-install/wp-importer.php:1264
 msgid "Fetching attachments is not enabled"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1236
+#: framework/features/demo-install/wp-importer.php:1278
 msgid "Invalid file type"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1288
+#: framework/features/demo-install/wp-importer.php:1330
 msgid "Remote server did not respond"
 msgstr ""
 
 #. translators: %1$d is the HTTP response code, %2$s is the HTTP response message.
-#: framework/features/demo-install/wp-importer.php:1301
+#: framework/features/demo-install/wp-importer.php:1343
 msgid "Remote server returned error response %1$d %2$s"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1322
+#: framework/features/demo-install/wp-importer.php:1364
 msgid "Remote file is incorrect size"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1331
+#: framework/features/demo-install/wp-importer.php:1373
 msgid "Zero size file downloaded"
 msgstr ""
 
 #. translators: %s is the maximum file size allowed.
-#: framework/features/demo-install/wp-importer.php:1344
+#: framework/features/demo-install/wp-importer.php:1386
 msgid "Remote file is too large, limit is %s"
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1456
+#: framework/features/demo-install/wp-importer.php:1498
 msgid "Import WordPress"
 msgstr ""
 
 #. translators: %s is the new version number.
-#: framework/features/demo-install/wp-importer.php:1468
+#: framework/features/demo-install/wp-importer.php:1510
 msgid ""
 "A new version of this importer is available. Please update to version %s to "
 "ensure compatibility with newer export files."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1489
+#: framework/features/demo-install/wp-importer.php:1531
 msgid ""
 "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
 "the posts, pages, comments, custom fields, categories, and tags into this "
 "site."
 msgstr ""
 
-#: framework/features/demo-install/wp-importer.php:1490
+#: framework/features/demo-install/wp-importer.php:1532
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
 msgstr ""
 
@@ -3222,17 +3234,17 @@ msgid "Fields Gap"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:137,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:155
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:184
 msgid "Your email *"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:14
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:56
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:87
 msgid "Newsletter"
 msgstr ""
 
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:258,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:259,
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:287,
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:288,
 #: framework/features/blocks/about-me/options.php:68,
 #: framework/features/header/items/account/options.php:611,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-table.php:244,
@@ -3242,18 +3254,18 @@ msgid "Name"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/providers/active-campaign.php:165,
-#: framework/extensions/newsletter-subscribe/providers/brevo.php:121,
+#: framework/extensions/newsletter-subscribe/providers/brevo.php:117,
 #: framework/extensions/newsletter-subscribe/providers/campaign-monitor.php:141,
 #: framework/extensions/newsletter-subscribe/providers/convertkit-new.php:151,
 #: framework/extensions/newsletter-subscribe/providers/convertkit.php:103,
 #: framework/extensions/newsletter-subscribe/providers/demo.php:40,
 #: framework/extensions/newsletter-subscribe/providers/emailoctopus.php:107,
 #: framework/extensions/newsletter-subscribe/providers/fluent-crm.php:87,
-#: framework/extensions/newsletter-subscribe/providers/klaviyo.php:172,
-#: framework/extensions/newsletter-subscribe/providers/mailchimp.php:194,
+#: framework/extensions/newsletter-subscribe/providers/klaviyo.php:165,
+#: framework/extensions/newsletter-subscribe/providers/mailchimp.php:203,
 #: framework/extensions/newsletter-subscribe/providers/mailerlite-classic.php:109,
 #: framework/extensions/newsletter-subscribe/providers/mailerlite-new.php:133,
-#: framework/extensions/newsletter-subscribe/providers/mailpoet.php:90
+#: framework/extensions/newsletter-subscribe/providers/mailpoet.php:87
 msgid "Thank you for subscribing to our newsletter!"
 msgstr ""
 
@@ -3262,7 +3274,7 @@ msgid "Demo List"
 msgstr ""
 
 #. translators: %s is the email address
-#: framework/extensions/newsletter-subscribe/providers/mailchimp.php:186
+#: framework/extensions/newsletter-subscribe/providers/mailchimp.php:195
 msgid "%s is already a list member."
 msgstr ""
 
@@ -3777,6 +3789,7 @@ msgid "Placeholder Text"
 msgstr ""
 
 #: framework/features/blocks/search/options.php:75
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:86
 msgid "Button Text"
 msgstr ""
 
@@ -4299,7 +4312,7 @@ msgid "Content Visibility"
 msgstr ""
 
 #: framework/premium/extensions/mega-menu/options.php:432,
-#: framework/premium/extensions/mega-menu/options.php:791
+#: framework/premium/extensions/mega-menu/options.php:801
 msgid "Item Label Settings"
 msgstr ""
 
@@ -4331,7 +4344,7 @@ msgid "Label Link"
 msgstr ""
 
 #: framework/premium/extensions/mega-menu/options.php:532,
-#: framework/premium/extensions/mega-menu/options.php:875
+#: framework/premium/extensions/mega-menu/options.php:885
 msgid "Badge Settings"
 msgstr ""
 
@@ -4339,7 +4352,7 @@ msgstr ""
 msgid "Link Color"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:619,
+#: framework/premium/extensions/mega-menu/options.php:623,
 #: framework/features/header/items/account/options.php:1956,
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:672,
 #: framework/premium/features/premium-header/items/contacts/options.php:641,
@@ -4350,59 +4363,72 @@ msgstr ""
 msgid "Link Initial"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:624
-msgid "Link Hover/Active"
+#: framework/premium/extensions/mega-menu/options.php:628,
+#: framework/features/header/items/account/options.php:1962,
+#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:677,
+#: framework/premium/features/premium-header/items/contacts/options.php:647,
+#: framework/premium/features/premium-header/items/contacts/options.php:687,
+#: framework/premium/features/premium-header/items/contacts/options.php:726
+#: static/js/editor/blocks/breadcrumbs/Edit.js:74
+#: static/js/editor/blocks/contact-info/Edit.js:123
+#: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:265
+msgid "Link Hover"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:629,
+#: framework/premium/extensions/mega-menu/options.php:633,
+#: framework/features/header/items/account/options.php:1968
+msgid "Link Active"
+msgstr ""
+
+#: framework/premium/extensions/mega-menu/options.php:639,
 #: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:160
 msgid "Background Hover"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:637
+#: framework/premium/extensions/mega-menu/options.php:647
 msgid "Heading Font"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:646,
-#: framework/premium/extensions/mega-menu/options.php:803
+#: framework/premium/extensions/mega-menu/options.php:656,
+#: framework/premium/extensions/mega-menu/options.php:813
 msgid "Heading Color"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:658,
-#: framework/premium/extensions/mega-menu/options.php:677,
-#: framework/premium/extensions/mega-menu/options.php:815
+#: framework/premium/extensions/mega-menu/options.php:668,
+#: framework/premium/extensions/mega-menu/options.php:687,
+#: framework/premium/extensions/mega-menu/options.php:825
 msgid "Initial Color"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:684,
+#: framework/premium/extensions/mega-menu/options.php:694,
 #: framework/premium/extensions/shortcuts/customizer.php:1286,
 #: framework/premium/features/premium-header/items/search-input/options.php:924,
 #: framework/premium/features/premium-header/items/language-switcher/options/dropdown.php:137
 msgid "Items Divider"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:699
+#: framework/premium/extensions/mega-menu/options.php:709
 msgid "Columns Divider"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:714,
+#: framework/premium/extensions/mega-menu/options.php:724,
 #: framework/premium/features/premium-header/items/search-input/options.php:906
 msgid "Dropdown Shadow"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:746
+#: framework/premium/extensions/mega-menu/options.php:756
 msgid "Column Settings"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:750
+#: framework/premium/extensions/mega-menu/options.php:760
 msgid "Column Spacing"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:764
+#: framework/premium/extensions/mega-menu/options.php:774
 msgid "Column Background"
 msgstr ""
 
-#: framework/premium/extensions/mega-menu/options.php:825,
+#: framework/premium/extensions/mega-menu/options.php:835,
 #: framework/features/header/items/account/options.php:1350,
 #: framework/features/header/items/account/options.php:1389,
 #: framework/features/header/items/account/options.php:1432,
@@ -6137,21 +6163,6 @@ msgstr ""
 msgid "Text Initial"
 msgstr ""
 
-#: framework/features/header/items/account/options.php:1962,
-#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:677,
-#: framework/premium/features/premium-header/items/contacts/options.php:647,
-#: framework/premium/features/premium-header/items/contacts/options.php:687,
-#: framework/premium/features/premium-header/items/contacts/options.php:726
-#: static/js/editor/blocks/breadcrumbs/Edit.js:74
-#: static/js/editor/blocks/contact-info/Edit.js:123
-#: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:265
-msgid "Link Hover"
-msgstr ""
-
-#: framework/features/header/items/account/options.php:1968
-msgid "Link Active"
-msgstr ""
-
 #: framework/features/header/items/account/options.php:2057,
 #: framework/premium/features/content-blocks/options/popup.php:615,
 #: framework/premium/extensions/post-types-extra/features/filtering/customizer.php:299,
@@ -7498,7 +7509,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:253,
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:325,
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:393
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:262
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:263
 #: static/js/editor/blocks/search/Edit.js:311
 msgid "Button Background Color"
 msgstr ""
@@ -9352,20 +9363,20 @@ msgstr ""
 msgid "Invalid API Key..."
 msgstr ""
 
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:163
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:164
 msgid "Container Border Color"
 msgstr ""
 
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:197
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:198
 msgid "Container Background Color"
 msgstr ""
 
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:233
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:234
 #: static/js/editor/blocks/search/Edit.js:281
 msgid "Button Text Color"
 msgstr ""
 
-#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:17
+#: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/index.js:48
 msgid "Newsletter Controls"
 msgstr ""
 
@@ -9459,7 +9470,7 @@ msgstr ""
 #: framework/extensions/product-reviews/static/js/ProductReviews.js:96
 #: framework/premium/extensions/mega-menu/static/js/SettingsManager.js:291
 #: framework/premium/extensions/sidebars/static/js/SettingsManager.js:112
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:914
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:810
 #: framework/premium/static/js/footer/EditConditions.js:153
 #: framework/premium/static/js/media-video/components/EditVideoMeta.js:106
 msgid "Save Settings"
@@ -9702,132 +9713,151 @@ msgstr ""
 msgid "Sidebar name"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:107
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:149
+msgid "White Label Extension"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:161
+msgid ""
+"Please note that disabling this option will hide the white-label extension. "
+"To restore it, press the SHIFT key while clicking the dashboard logo."
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:17
+msgid "Account Menu Item"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:27
+msgid "Starter Sites Tab"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:31
+msgid "Useful Plugins Tab"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:36
+msgid "Changelog Tab"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:41
+msgid "Extension Documentation Link"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:46
+msgid "Extension Video Link"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:72
+msgid "Support Section"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:77
+msgid "Knowledge Base Section"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:82
+msgid "Video Tutorials Section"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/AdvancedTab.js:87
+msgid "Facebook Section"
+msgstr ""
+
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:138
 msgid "Advanced"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:122
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:153
 msgid "Agency Details"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:130
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:161
 msgid "Agency Name"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:158
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:189
 msgid "Agency URL"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:186
-msgid "Agency Support/Contact Form URL"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:219
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:220
 msgid "Theme Details"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:227
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:228
 msgid "Theme Name"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:255
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:256
 msgid "Theme Description"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:285
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:286
 msgid "Theme Screenshot URL"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:383
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:384
 msgid ""
 "You can insert the link to a self hosted image or upload one. The "
 "recommended image size is 1200px wide by 900px tall."
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:392
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:393
 msgid "Theme Icon URL"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:488
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:489
 msgid ""
 "You can insert the link to a self hosted image or upload one. The "
 "recommended image size is 18px wide by 18px tall."
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:497
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:498
 msgid "Gutenberg Options Panel Icon URL"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:595
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:596
 msgid ""
 "You can insert the link to a self hosted image or upload one. Please note "
 "that only icons in SVG format are allowed here to not break the editor "
 "interactiveness."
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:607
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:608
 msgid "Companion Plugin Details"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:615
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:616
 msgid "Plugin Name"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:643
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:644
 msgid "Plugin Description"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:673
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:674
 msgid "Plugin Thumbnail URL"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:763
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:764
 msgid "Choose File"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:771
+#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:772
 msgid ""
 "You can insert the link to a self hosted image or upload one. The "
 "recommended image size is 256px wide by 256px tall."
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:797
-msgid "Hide Account Menu Item"
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:108
+msgid "Button Link"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:807
-msgid "Hide Starter Sites Tab"
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:159
+msgid "Save Options"
 msgstr ""
 
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:814
-msgid "Hide Useful Plugins Tab"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:822
-msgid "Hide Changelog Tab"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:830
-msgid "Hide Support Section"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:838
-msgid "Hide Documentation Links"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:846
-msgid "Hide Video Links"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:880
-msgid "Hide White Label Extension"
-msgstr ""
-
-#: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:895
-msgid ""
-"Please note that the white label extension will be hidden if this option is "
-"enabled. In order to bring it back you have to hit the SHIFT key and click "
-"on the dashboard logo."
+#: framework/premium/extensions/white-label/dashboard-static/js/SupportSectionModal.js:34
+msgid "%s Content"
 msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/active-filters/index.js:110
@@ -10454,22 +10484,60 @@ msgstr ""
 msgid "Install and activate the Blocksy theme"
 msgstr ""
 
-#: static/js/dashboard/helpers/SubmitSupport.js:18
-msgid "Need help or advice?"
+#: static/js/dashboard/helpers/SubmitSupport.js:107
+msgid "Support"
 msgstr ""
 
-#: static/js/dashboard/helpers/SubmitSupport.js:21
+#: static/js/dashboard/helpers/SubmitSupport.js:110
 msgid ""
-"Got a question or need help with the theme? You can always submit a support "
-"ticket or ask for help in our friendly Facebook community."
+"If your questions have not been answered by documentation or video "
+"tutorials, drop us a line."
 msgstr ""
 
-#: static/js/dashboard/helpers/SubmitSupport.js:33
-msgid "Submit a Support Ticket"
+#: static/js/dashboard/helpers/SubmitSupport.js:115
+msgid "Submit a Ticket"
 msgstr ""
 
-#: static/js/dashboard/helpers/SubmitSupport.js:41
-msgid "Join Facebook Community"
+#: static/js/dashboard/helpers/SubmitSupport.js:32
+msgid "Facebook Community"
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:35
+msgid ""
+"Share ideas, help others, ask questions and discuss your next project in our "
+"friendly community."
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:43
+msgid "Join Our Community"
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:57
+msgid "Video Tutorials"
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:60
+msgid ""
+"Learn how to do just about anything within Blocksy by following our byte-"
+"sized video tutorials."
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:68
+msgid "Watch Tutorials"
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:82
+msgid "Knowledge Base"
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:85
+msgid ""
+"Dive in with our documentation and learn tips and tricks about Blocksy and "
+"its components."
+msgstr ""
+
+#: static/js/dashboard/helpers/SubmitSupport.js:93
+msgid "View Documentation"
 msgstr ""
 
 #: static/js/dashboard/helpers/useProExtensionInFree.js:14
@@ -10545,15 +10613,15 @@ msgstr ""
 msgid "Failed to retrieve starter sites list.<br> Error code - %s"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:317
+#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:319
 msgid "Back"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:357
+#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:359
 msgid "Install"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:358
+#: static/js/dashboard/screens/DemoInstall/DemoToInstall.js:360
 msgid "Next"
 msgstr ""
 
@@ -10574,8 +10642,10 @@ msgstr ""
 msgid "View site"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/contentCalculation.js:9
-msgid "Import content"
+#: static/js/dashboard/screens/DemoInstall/Installer/helpers.js:3
+msgid ""
+"Unfortunately, your hosting configuration doesn't meet the minimum "
+"requirements for importing a starter site."
 msgstr ""
 
 #: static/js/dashboard/screens/DemoInstall/Installer/messages.js:12
@@ -10658,38 +10728,35 @@ msgstr ""
 msgid "comments"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:118
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:106
 msgid "Child theme"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:129
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:117
 msgid "Installing %s"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:143
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:72
-msgid "Erase content"
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:131
+msgid "Preparing content"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:155
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:143
 msgid "Import options"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:168
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:156
 msgid "Import widgets"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:185
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:176
+msgid "Import content"
+msgstr ""
+
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:195
 msgid "Final touches"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:31
-msgid ""
-"Unfortunately, your hosting configuration doesn't meet the minimum "
-"requirements for importing a starter site."
-msgstr ""
-
-#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:345
+#: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:339
 msgid "Preparing data..."
 msgstr ""
 
@@ -10784,32 +10851,52 @@ msgid ""
 "terms and custom posts."
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:149
-msgid "This starter site is already installed"
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:141
+msgid "Removing starter site..."
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:158
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:144
+msgid ""
+"Please wait and avoid closing this window while the starter site removal "
+"process is in progress."
+msgstr ""
+
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:168
 msgid "Starter Site Removed"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:167
-msgid "Dismiss"
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:171
+msgid ""
+"The starter site has been successfully removed. You may now close this "
+"window."
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:176
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:184
+msgid "Close Now"
+msgstr ""
+
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:208
+msgid "This starter site is already installed"
+msgstr ""
+
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:215
 msgid "What steps do you want to perform next?"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:193
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:232
 msgid "Remove"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:202
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:241
 msgid "Reinstall"
 msgstr ""
 
 #: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:57
 msgid "Deactivate demo plugins"
+msgstr ""
+
+#: static/js/dashboard/screens/DemoInstall/Wizzard/ModifyDemo.js:72
+msgid "Erase content"
 msgstr ""
 
 #: static/js/dashboard/screens/DemoInstall/Wizzard/PickBuilder.js:64
@@ -10822,11 +10909,11 @@ msgid ""
 "Please select one in order to continue."
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/Plugins.js:73
+#: static/js/dashboard/screens/DemoInstall/Wizzard/Plugins.js:74
 msgid "Install & Activate Plugins"
 msgstr ""
 
-#: static/js/dashboard/screens/DemoInstall/Wizzard/Plugins.js:75
+#: static/js/dashboard/screens/DemoInstall/Wizzard/Plugins.js:76
 msgid ""
 "The following plugins are required for this starter site in order to work "
 "properly."

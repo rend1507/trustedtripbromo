@@ -47,6 +47,10 @@ if (! isset($is_eventkoi)) {
 	$is_eventkoi = false;
 }
 
+if (! isset($is_vs_portfolio)) {
+	$is_vs_portfolio = false;
+}
+
 if (! isset($is_tribe_events)) {
 	$is_tribe_events = false;
 }
@@ -138,6 +142,8 @@ if (
 	! $is_tribe_events
 	&& 
 	! $is_eventkoi
+	&&
+	! $is_vs_portfolio
 ) {
 	$default_hero_elements[] = [
 		'id' => 'custom_description',
@@ -164,6 +170,8 @@ if (
 	!$is_tribe_events
 	&& 
 	!$is_eventkoi
+	&&
+	!$is_vs_portfolio
 ) {
 	$default_hero_elements[] = [
 		'id' => 'custom_meta',
